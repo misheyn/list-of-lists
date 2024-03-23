@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RGR</string>
+    <string name="execute">Execute</string>
+    <string name="enter_sort_criteria">Enter sort criteria</string>
+    <string name="enter_index">Enter index</string>
+    <string name="enter_value">Enter value</string>
+    <string name="gps">Int</string>
+    <string name="list_of_lists">List of Lists</string>
+    <string name="datatype">DataType</string>
+</resources>
